@@ -25,4 +25,6 @@ latest (unreleased)
 
 **Build**
 
+* BSMNT-149: Upgrade docker-compose.yml to pull postgres from ghcr.io
+
 **Documentation**
